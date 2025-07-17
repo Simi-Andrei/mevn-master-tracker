@@ -49,5 +49,3 @@ Built with a modern UI using **shadcn-vue** and scalable backend powered by **No
 
 ---
 
-## 📁 Project Structure
-
