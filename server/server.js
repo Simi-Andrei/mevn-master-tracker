@@ -2,8 +2,11 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import colors from "colors";
+import connectDatabase from "./database/connectDatabase.js";
 
 dotenv.config();
+
+connectDatabase();
 
 const app = express();
 
